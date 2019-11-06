@@ -81,9 +81,6 @@
       <div class="form-row center" style="margin: 15px 20%;">
         <button class="btn btn-primary" type="submit" style=" width: 100%;">LOGIN</button>
       </div>
-      <div class="form-row center" style="margin: 15px 0;font-size: 15px;">
-        <p><a href="#">Create Account?</a></p>
-      </div>
     </form>
   </div>
 </body>
