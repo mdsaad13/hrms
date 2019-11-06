@@ -1,0 +1,59 @@
+body {
+    padding: 60px 80px;
+}
+
+.main {
+    max-width: 600px;
+    /* margin-top: 100px; */
+    background: #E9ECEF;
+    padding: 25px 30px;
+    border-radius: 20px;
+}
+
+.main h1 {
+    text-align: center;
+}
+
+.main h4 {
+    text-align: center;
+}
+
+.main .center {
+    text-align: center;
+}
+
+.center button {
+    width: 50%;
+}
+
+.center {
+    text-align: center;
+}
+
+.heading {
+    font-size: 18px;
+}
+
+.summary {
+    font-size: 15px;
+    color: #515151;
+}
+
+.note {
+    font-size: 16px;
+    color: #8b8989;
+}
+
+.card .btn {
+    padding: unset;
+}
+
+h5 a {
+    padding: inherit !important;
+    font-size: inherit !important;
+    margin: inherit !important;
+}
+
+.card {
+    margin-bottom: 10px;
+}
